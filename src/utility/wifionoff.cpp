@@ -1,7 +1,7 @@
 
 #include <user_interface.h>
 
-#include "EspGoodies.h"
+#include "../EspGoodies.h"
 
 // https://github.com/esp8266/Arduino/issues/3072#issuecomment-348692479
 

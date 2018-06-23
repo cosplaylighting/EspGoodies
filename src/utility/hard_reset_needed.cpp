@@ -1,7 +1,7 @@
 
 #include <esp8266_peri.h>
 
-#include "EspGoodies.h"
+#include "../EspGoodies.h"
 
 int hard_reset_needed (void)
 {

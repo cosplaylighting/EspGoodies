@@ -1,7 +1,7 @@
 
 #include <esp8266_peri.h>
 
-#include "EspGoodies.h"
+#include "../EspGoodies.h"
 
 void uart_set_loopback (int uart_nr, bool enable)
 {

@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <WString.h>
 
-#include "EspGoodies.h"
+#include "../EspGoodies.h"
 
 void configTZ (const __FlashStringHelper* TZ)
 {
